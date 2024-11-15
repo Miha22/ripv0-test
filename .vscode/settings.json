@@ -1,0 +1,14 @@
+{
+    "files.associations": {
+        "string.h": "c",
+        "stdio.h": "c",
+        "inet.h": "c",
+        "in.h": "c",
+        "event.h": "c",
+        "bitset": "c",
+        "functional": "c",
+        "iterator": "c",
+        "memory": "c",
+        "types.h": "c"
+    }
+}
